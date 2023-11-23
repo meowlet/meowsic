@@ -6,11 +6,11 @@ But let’s not get ahead of ourselves, the first thing to complete is web progr
 
 Above are a few words I wanted to write before getting started. While I’m at it, let me talk about the technologies I used to build this website.
 
-| Things              | Frameworks    |
-| :------------------ | :------------ |
-| Front-end framework | Astro.build   |
-| CSS framework       | Tailwind CSS  |
-| (updating...)       | (updating...) |
+| Things        | Frameworks    |
+| :------------ | :------------ |
+| Front-end     | Astro.build   |
+| CSS           | Tailwind CSS  |
+| (updating...) | (updating...) |
 
 ## Project Structure
 
