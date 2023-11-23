@@ -1,18 +1,20 @@
-# Astro Starter Kit: Minimal
+# Introduction
 
-```sh
-npm create astro@latest -- --template minimal
-```
+This is the source code for my blog. After completing four web programming credits at school, I wanted to continue using my web writing knowledge to create a blog website myself. Here, the content I post will be quite eclectic, from thoughts on anime, visual novels, to various technologies I’ve used or am interested in. Oh, the first post I want to write seems to be about how I’ve been learning Chinese over the past year, analyzing the pros and cons of my learning method, hoping to help those who are planning to learn Chinese.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/minimal)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/minimal)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/minimal/devcontainer.json)
+But let’s not get ahead of ourselves, the first thing to complete is web programming knowledge. Writing a “readable” blog is easy, but what I’m aiming for is a complete, optimized, fast, and most importantly, beautiful website. So, the road ahead is long, from the time I write these words to when the blog is completed won’t be quick. I hope I can wait.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+Above are a few words I wanted to write before getting started. While I’m at it, let me talk about the technologies I used to build this website.
 
-## 🚀 Project Structure
+| Things              | Frameworks    |
+| :------------------ | :------------ |
+| Front-end framework | Astro.build   |
+| CSS framework       | Tailwind CSS  |
+| (updating...)       | (updating...) |
 
-Inside of your Astro project, you'll see the following folders and files:
+## Project Structure
+
+Inside of the project, you'll see the following folders and files:
 
 ```text
 /
@@ -25,23 +27,6 @@ Inside of your Astro project, you'll see the following folders and files:
 
 Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+## Want to learn more?
 
-Any static assets, like images, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Feel free to check [the documentation](https://docs.astro.build).
